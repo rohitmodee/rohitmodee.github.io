@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can [Download pdf](https://rohitmodee.github.io/files/Rohit_Modee_resume.pdf) version of my cv. 
+You can [Download pdf](https://rohitmodee.github.io/files/Rohit_Modee_resume.pdf){:target="_blank"} version of my cv. 
 
 Education
 ========
