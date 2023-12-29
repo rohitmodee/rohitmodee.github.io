@@ -13,14 +13,14 @@ You can [Download pdf](https://rohitmodee.github.io/files/Rohit_Modee_resume.pdf
 
 Education
 ========
-- 2018 - 2023    Ph.D. in Bioinformatics
-  - IIIT-H, Hyderabad, India, (expected in 2023)
+- 2018 - 2024    Ph.D. in Bioinformatics
+  - IIIT-H, Hyderabad, India, (expected in 2024)
 - 2010 - 2015    B.Tech + M.Tech. (Integrated) in Biotechnology
   - Dr. D.Y. Patil School of Biotechnology and Bioinformatics, Mumbai, India.
 
 Research experience
 ======
-* 2018 - 2023: Ph.D. Scholar
+* 2018 - 2024: Ph.D. Scholar
   * IIIT-H, Hyderabad, India
   * Duties included: Developed [DART](https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp02956h){:target="_blank"} and [MeGen](https://iopscience.iop.org/article/10.1088/2632-2153/acdc03){:target="_blank"} models for Gallium cluster 3D structure generation. Developed a learned optimizer MolOpt for molecular geometry optimization.
   * Supervisor: Prof. Deva Priyakumar.
