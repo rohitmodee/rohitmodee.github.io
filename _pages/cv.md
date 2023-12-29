@@ -51,12 +51,27 @@ Publications
 
 Skills
 ======
-* Coding/scripting
+<!-- * Coding/scripting
     * UNIX, Bash, Python, R, PyTorch, LaTeX, Basic knowledge C/C++, Perl.
 * Scientific Tools
     * RDKit, ASE, CHARMM & CHARMM-GUI, NAMD, Gaussian & GaussView, Packmol, VMD, Avogadro.
 * Web Dev
     * HTML, CSS (basic)
+ -->
+* Computational chemistry software
+    * RDKit, ASE, CHARMM & CHARMM-GUI, NAMD, Gaussian, Packmol, Avogadro.
+* Computational chemistry methods
+    * Molecular dynamics (MD), Replica Exchange Molecular Dynamics (REMD).
+* Programming skills
+    * Python, R, PyTorch, L A TEX, Basic knowledge C/C++, Perl, Bash, UNIX.
+* Visualization and plotting tools
+    * VMD, GaussView, Gnuplot, Matplotlib (python).
+* Databases and Web Dev
+    * Basic knowledge of Mysql, sqlite. Html, css, JavaScript, Apache Web Server.
+* Soft skills
+    * Academic research, writing research papers, mentoring students, teaching, and consultation. Good communication skills (gave presentations, posters and talks in various conferences).
+* Languages
+    * English, Hindi and Marathi (can read, write and speak). Telugu and Kannada (can speak).
 
 Invited Talks
 ============
