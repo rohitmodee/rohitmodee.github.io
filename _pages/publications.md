@@ -19,7 +19,7 @@ Published
 
 Not Published
 ========
-2. **R. Modee**, and U. D. Priyakumar, MolOpt2: Understanding and correcting pathologies in developing learned molecular geometry optimizer, (2023). (Manuscript ready)
-1. B. Sridharan, A. Sinha, J. Bardhan, **R. Modee**, and U. D. Priyakumar, Review of Reinforcement Learning in Chemistry, (2022).(Manuscript ready)
+2. **R. Modee**, and U. D. Priyakumar, MolOpt2: Understanding and correcting pathologies in developing learned molecular geometry optimizer, (2023).
+1. B. Sridharan, A. Sinha, J. Bardhan, **R. Modee**, and U. D. Priyakumar, Review of Reinforcement Learning in Chemistry, (2022).(In press)
 <!-- 1. **R Modee**, U. D. Priyakumar. Effect of cosolvent on protein folding/unfolding, (2019).(Manuscript ready) -->
 {: reversed="reversed"}
